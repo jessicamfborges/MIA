@@ -1,2 +1,2 @@
 # MIA
-Exemplo de código de detecção de imagem com YOLO
+Exemplo de código para detecção de imagem usando o YOLO
